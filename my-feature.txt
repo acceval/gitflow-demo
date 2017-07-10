@@ -1,3 +1,5 @@
 This is my-feature, it is used to represent a feature branch
 
-We have more feature details
+We have more feature detail
+
+The feature has been completed
